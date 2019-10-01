@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Datos personales</string>
+    <string name="action_settings">Configuración</string>
+    <string name="activity_title_home">Usuarios</string>
+    <string name="msg_no_notes">Sin usuarios</string>
+    <string name="lbl_new_note_title">Nuevo usuario</string>
+    <string name="lbl_edit_note_title">Editar usuario</string>
+    <string name="hint_enter_note">¡Ingresa tu usuario!</string>
+</resources>
